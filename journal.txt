@@ -1,2 +1,5 @@
+Title: My first file.
+Author: Stan Fooley
+
 here it is!
 here it is again!
